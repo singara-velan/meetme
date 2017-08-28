@@ -945,7 +945,7 @@ header.nav.hide-menu {
  ----------------------------------- */
 
 .portfolio-wrap {
-    padding-bottom: 120px;
+    padding-bottom: 10px;
 }
 
 .portfolio-top {
@@ -1110,7 +1110,7 @@ header.nav.hide-menu {
     margin-bottom: 15px;
 }
 .modal .modal-content {
-    padding: 0 20px 30px;
+    padding: 20px 20px 30px;
     border-bottom: 1px solid #eeeeee;
 
 
@@ -1416,6 +1416,9 @@ span.num {
     color: #fff;
     line-height: 14px;
     display: block;
+}
+.contact-info li a span {
+    margin-left: 10px;
 }
 
 .contact-info li:last-child {
